@@ -1,5 +1,9 @@
+import Nav from '@/components';
 <template>
-  <div>Labels.vue</div>
+  <div>
+    Labels.vue
+    <Nav></Nav>
+  </div>
 </template>
 
 <script lang="ts">
